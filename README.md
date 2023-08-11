@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 
 - 👀 I’m currently working on Web Applications.
-- 🌱 I’m currently exploring Web3.
-- ⚡ Currently learning Solidity.
+- 🌱 I’m currently exploring DevOps.
+- ⚡ Currently learning Docker and Kubernetes.
 - 🔥 I’m looking to collaborate on technical work sites and 
       on ideas that count.
 - 💬 Ask me about something I know
