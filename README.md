@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 <img align="right" height="200px" width="350px" alt="GIF" src="https://media.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif" />
 
 
-- 👀 I’m currently working on Web Applications.
-- 🌱 I’m currently exploring DevOps.
-- ⚡ Currently learning Docker and Kubernetes.
+- 👀 I’m currently working as DevOps Engineer.
+- 🌱 Ex frontend developer now into devops.
+- ⚡ Currently learning monitoring.
 - 🔥 I’m looking to collaborate on technical work sites and 
       on ideas that count.
 - 💬 Ask me about something I know
