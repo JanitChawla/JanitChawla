@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 👀 I’m currently working as DevOps Engineer.
 - 🌱 Ex frontend developer now into devops.
-- ⚡ Currently learning monitoring.
+- ⚡ Currently learning azure devops.
 - 🔥 I’m looking to collaborate on technical work sites and 
       on ideas that count.
 - 💬 Ask me about something I know
