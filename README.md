@@ -32,10 +32,10 @@ Here are some ideas to get you started:
  <h3>Connect with Me:<h3>
 
 <p align="centre">
-<a href= "https://twitter.com/janitchawla" target="blank"><img style="margin-right: 2em" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khushig21096161" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/janit-chawla-478457191/" target="blank"><img style="margin-right: 2em" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khushi-gupta-29243b1b9" height="40" width="40" /></a>
-<a href="https://www.instagram.com/chawlajanit/" target="blank"><img style="margin-right: 2em" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khushigupta7898" height="40" width="40" /></a>
-<a href="https://janitchawla-portfolio.netlify.app/" target="blank"><img style="margin-right: 2em" src="https://www.pngkit.com/png/full/104-1049388_world-wide-web-logo-vector-transparent-background-website.png" alt="khushigupta7898" height="40" width="40" /></a>
+<a href= "https://twitter.com/janitchawla" target="blank"><img style="margin-right: 2em" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="janit" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/janit-chawla-478457191/" target="blank"><img style="margin-right: 2em" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedIn" height="40" width="40" /></a>
+<a href="https://www.instagram.com/chawlajanit/" target="blank"><img style="margin-right: 2em" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="insta" height="40" width="40" /></a>
+<a href="https://janitchawla.netlify.app/" target="blank"><img style="margin-right: 2em" src="https://www.pngkit.com/png/full/104-1049388_world-wide-web-logo-vector-transparent-background-website.png" alt="portfolio" height="40" width="40" /></a>
  <h3>Languages and Tools:<h3>
 
 <p> 
