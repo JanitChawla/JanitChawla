@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3>I am an IT Undergrad , Developer, Programmer , Tech enthusiast . 
+<h3>I am an IT Undergrad , DevOps Engineer, Developer, Programmer , Tech enthusiast . 
 </h3>
 <hr/>
 
